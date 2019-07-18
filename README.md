@@ -20,7 +20,7 @@ mcmcComparisonPlot.R – script to make Figure 5.
 
 README.md – a highly entertaining document!
 
-reanalysisLungsHMC.R – analysis of a portion of the data published in Duvallet et al 2019. See main text. This script requires "patient_clinical_metadata.csv" and the directory "rosen_mincount10_maxee2_trim200_results_forpaper" from Duvallet et al. These data can be accessed at: https://doi.org/10.5281/zenodo.2678107 
+reanalysisLungsHMC.R – analysis of a portion of the data published in Duvallet et al 2019. See main text. This script requires "patient_clinical_metadata.csv" and the directory "rosen_mincount10_maxee2_trim200_results_forpaper" from Duvallet et al. These data can be accessed at: https://doi.org/10.5281/zenodo.2678107.
 If you use these data please cite Duvallet et al. 2019.
 
 simParamMaker.R – a simple script to make a file that is read by SimulationCode.R
